@@ -1,0 +1,11 @@
+==> 2025-06-11 08:32:21 <==
+# cmd: C:\ProgramData\spyder-6\Scripts\conda-script.py create -p MLvenv Python==3.7 -y
+# conda version: 24.5.0
++conda-forge/noarch::pip-24.0-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-69.0.3-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.42.0-pyhd8ed1ab_0
++conda-forge/win-64::python-3.7.0-hc182675_1006
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc-14.3-h2b53caa_26
++conda-forge/win-64::vc14_runtime-14.42.34438-hfd919c2_26
+# update specs: ['python==3.7']
