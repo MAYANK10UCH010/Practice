@@ -13,7 +13,10 @@ git clone [Link]
 ## Git Clone into the directory
 ## Paste the Files of .ipynb and .pkl into the directory
 
+## create environment and activate it in cmd only 
+## NOTE: don't use Powershell or Python environment by default
 conda create -p MLvenv Python==3.7 -y
+conda activate MLvenv/
 pip install -r requirements.txt
 git config --global  user.name "MAYANK10CUH010"
 git config --global  user.email "shukla.mayank007@gmail.com"
